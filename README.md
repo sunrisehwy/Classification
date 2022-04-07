@@ -16,7 +16,7 @@ Identify dissatisfied customers early in their relationship by building decision
 Build a model  to fraud detection based on an actual auto insurance company (Dataset 15,900, 31)
 
 
-(2) Portuguese banking institution, Target Marketing
+(3) Portuguese banking institution, Target Marketing
 
 - Mothod : Decision Tree Classifier, Random Forest Classifier
 - Objective :
