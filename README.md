@@ -21,5 +21,4 @@ Build a model  to fraud detection based on an actual auto insurance company (Dat
 
 
 
-Author: Sunhwa Lee
-Project Completion Date: Aug 2021
+Author: Sunhwa Lauren Lee
