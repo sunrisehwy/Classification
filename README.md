@@ -15,5 +15,12 @@ Identify dissatisfied customers early in their relationship by building decision
 - Objective :
 Build a model  to fraud detection based on an actual auto insurance company (Dataset 15,900, 31)
 
+
+
+
+
+
+
 Author: Sunhwa Lee
+
 Project Completion Date: Aug 2021
