@@ -11,14 +11,14 @@ Identify dissatisfied customers early in their relationship by building decision
 
 (2) Insurance, Fraud  Detection 
 
-- Mothod : Decision Tree Classifier, Random Forest 
+- Mothod : Decision Tree Classifier, Random Forest Classifier
 - Objective :
 Build a model  to fraud detection based on an actual auto insurance company (Dataset 15,900, 31)
 
 
 (2) Portuguese banking institution, Target Marketing
 
-- Mothod : Decision Tree Classifier, Random Forest 
+- Mothod : Decision Tree Classifier, Random Forest Classifier
 - Objective :
 Build the model to find the target customer for direct target marking cam campaign to sell term deposits based on the phone  calls  research dataset including general  information  about  customers, also details of contacts information whether a term deposit was subscribed to by the customer or not (Dataset 45,211, 17)
 
